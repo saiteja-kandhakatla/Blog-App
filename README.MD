@@ -44,14 +44,3 @@ This project also includes an **Admin Panel** for managing users and authors —
 | **Version Control** | Git, GitHub                                             |
 
 ---
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally 👇
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/saiteja-kandhakatla/Blog-App.git
-cd Blog-App
-```
